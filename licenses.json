@@ -1,0 +1,8 @@
+{
+  "ATHOME-001": {
+    "client": "At Home",
+    "host": "athome-devbox",
+    "expires": "2025-04-25",
+    "status": "active"
+  }
+}
