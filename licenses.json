@@ -1,8 +1,14 @@
 {
-  "ATHOME-001": {
-    "client": "At Home",
-    "host": "athome-devbox",
-    "expires": "2025-04-25",
-    "status": "active"
+  "MORGAN-ATHOME": {
+    "client": "Morgan @ At Home",
+    "host": "",
+    "status": "active",
+    "expires": "2025-12-31"
+  },
+  "MARYANN-MICHAELS": {
+    "client": "Mary Ann @ Michaels",
+    "host": "",
+    "status": "active",
+    "expires": "2025-12-31"
   }
 }
