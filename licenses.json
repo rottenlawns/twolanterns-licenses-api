@@ -4,11 +4,5 @@
     "host": "AHMB-FKFG7NH3J0",
     "status": "active",
     "expires": "2025-05-01"
-  },
-  "MARYANN-MICHAELS": {
-    "client": "Mary Ann @ Michaels",
-    "host": "",
-    "status": "active",
-    "expires": "2025-12-31"
   }
 }
